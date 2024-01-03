@@ -15,7 +15,6 @@ namespace ClassLibrary1 {
 		static Microsoft::Office::Interop::PowerPoint::Shape^ tableshape;
 
 		
-
 		static void openPPT(System::String^ path);
 		static void savePPT(System::String^ fileName);
 		static void closePPT();
